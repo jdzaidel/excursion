@@ -1,0 +1,29 @@
+*{
+  Background-Color: Black;
+  text-align: Center;
+  font-family: Verdana;
+}
+h1{
+  font-size: 50px;
+  font-weight: normal;
+  color: White;
+}
+h2{
+  font-size: 42px;
+  font-weight:300;
+  color: White;
+}
+#download_link{
+  font-size: 16px;
+  color: aquamarine;
+  text-decoration: underline;
+}
+#what_is_excursion{
+  font-size: 21px;
+  color: Gray;
+}
+#copyright{
+  font-size: 21px;
+  color: Gray;
+  text-align: right;
+}
